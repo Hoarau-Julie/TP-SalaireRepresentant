@@ -10,7 +10,7 @@ public class Main {
 
         r.setSalaireFixe(1000f);
 
-        r.enregistrerCA(0, 10000.00f);
+        r.registerCA(0, 10000.00f);
 
         float salaire = r.salaireMensuel(0, 0.1f);
 
